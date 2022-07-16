@@ -3,3 +3,8 @@
 
 */.ok_history
 */.ok_storage
+
+*/.idea
+**/.idea
+
+**/.DS_Store
