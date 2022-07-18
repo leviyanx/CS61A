@@ -1,5 +1,5 @@
 # CS61A
-CS61A(Structure and Interpretation of Computer Programs) in Summer 2020
+CS61A(Structure and Interpretation of Computer Programs) in Summer 2022 (~~2020~~)
 
 课程简介：
 
